@@ -10,7 +10,7 @@
 
 <p>
   
-  -   🌍  Based in Brazil-SP
+  -   🌍  Sp - Brazil
   
   -   🚀  Currently working on [QuickStarter](http://github.com/Voiwd/QuickStarter)
     
