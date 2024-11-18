@@ -17,10 +17,8 @@
   -  🧠  Learning JavaScript, MySQL
 </p>
 
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Voiwd&show_icons=true&theme=tokyonight)
-
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
@@ -42,8 +40,3 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
 
-
-</picture>
-</a></p>### Badges<b>My GitHub Stats</b><a
-  href="http://www.github.com/https://github.com/Voiwd"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Voiwd&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/https://github.com/Voiwd" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Voiwd&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
