@@ -11,8 +11,6 @@
 <p>
   
   -   🌍  Sp - Brazil
-  
-  -   🚀  Currently working on [QuickStarter](http://github.com/Voiwd/QuickStarter)
     
   -  🧠  Learning JavaScript, MySQL
 </p>
