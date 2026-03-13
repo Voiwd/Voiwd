@@ -4,7 +4,7 @@
 </h1>
 
 <p>
-  I'm a Junior Developer currently focused on <strong> Programming and Game Development. </strong> <br>
+  I'm a Junior Developer currently focused on <strong> Web Programming and Game Development. </strong> <br>
   I enjoy building systems, and exploring code.
 </p>
 
