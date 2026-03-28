@@ -4,8 +4,8 @@
 </h1>
 
 <p>
-  I'm a Junior Developer currently focused on <strong> Web Programming and Game Development. </strong> <br>
-  I enjoy building systems, and exploring code.
+  I'm a Junior Developer currently focused on <strong> Web Programming </strong> <br>
+  I enjoy building physics or simulation systems and learning new technologies.
 </p>
 
 
