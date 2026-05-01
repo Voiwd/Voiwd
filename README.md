@@ -1,4 +1,4 @@
-<h1 align="center">Voiwd</h1>
+<h1 align="center"> <img src="https://media.tenor.com/LZILreKvorEAAAAi/tiny-among-us.gif" width=30px /> Voiwd</h1>
 
 <p align="center">
   <strong>Junior Full-Stack Developer</strong><br/>
