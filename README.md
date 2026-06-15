@@ -9,13 +9,13 @@
 ---
 
 Just a dev building cool systems — simulations, little games, generative algorithms.  
-Web full-stack JavaScript/TypeScript · Python my beloved · Claude as a second brain.
+Web full-stack JavaScript/TypeScript · Python my beloved · Clauding.
 
 Currently going deeper into 3D graphics and AI-adjacent experiments.
 
 ---
 
-| | |
+| Repo | About |
 |---|---|
 | **[WaveSim-js](https://github.com/Voiwd/WaveSim-js)** | Real-time ocean wave simulation — Three.js + Vite |
 | **[Sidereus](https://github.com/Sidereus-Team/Sidereus)** | Interactive 3D visualization of the Solar System |
