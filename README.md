@@ -23,7 +23,5 @@
   | Repo | About |
   |---|---|
   | **[WaveSim-js](https://github.com/Voiwd/WaveSim-js)** | Real-time ocean wave simulation — Three.js + Vite |
-  | **[Sidereus](https://github.com/Sidereus-Team/Sidereus)** | Interactive 3D visualization of the Solar System |
-  | **[Q-Link](https://github.com/Voiwd/Q-Link)** | Chemical neural model experiment |
-  | **[Clorofila](https://github.com/Voiwd/Clorofila)** | Agriculture service for Brazil |
+  | **[Sidereus](https://github.com/Voiwd/claude-sidereus)** | Interactive 3D visualization of the Solar System |
 </div>
