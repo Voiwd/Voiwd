@@ -12,7 +12,7 @@
 
 <p align="center">  ☗ simulations, ♞ little games, ✦ generative algorithms.  </p>
 
-<p align="center">  Web full-stack JavaScript/TypeScript · Python my beloved · Clauding.</p>
+<p align="center">  Web full-stack JavaScript/TypeScript · Python my beloved</p>
 
 
 <p align="center"> Currently going deeper into ❒ 3D graphics and ∇ AI-adjacent experiments.</p>
