@@ -3,7 +3,7 @@
 <p align="center">☁ Mathematics/Physics/CS nerd ☁</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nodejs,threejs,tailwind,cs,java,godot,blender,linux" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,cs,linux" />
 </p>
 
 ---
